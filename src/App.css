@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.wallet-balance {
+  margin: 20px;
+}
+
+.add-expense-form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.add-expense-form input,
+.add-expense-form button {
+  margin: 5px;
+  padding: 10px;
+}
